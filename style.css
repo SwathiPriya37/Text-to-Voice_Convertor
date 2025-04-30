@@ -54,7 +54,8 @@ button{
     border: 0;
     outline: 0;
     cursor: pointer;
-    align-items: center
+    align-items: center;
+    display: flex;
 }
 button img{
     width: 16px;
