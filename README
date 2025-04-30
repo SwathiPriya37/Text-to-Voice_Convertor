@@ -1,40 +1,40 @@
-# Text-to-Voice Converter 🔊🗣️
+# TEXT-TO-VOICE CONVERTER 🔊🗣️
 
-A simple web-based Text-to-Voice (Speech Synthesis) converter using JavaScript and the Web Speech API.
+A simple web-based text-to-voice (speech synthesis) converter using JavaScript and the Web Speech API.
 
-## 🌐 Live Demo
-_(Optional: Add link if deployed)_
+## 🌐 LIVE DEMO  
+(Optional: Add link if deployed)
 
-## 🛠️ Features
-- Converts input text to speech
-- Allows voice selection from available system voices
+## 🛠️ FEATURES  
+- Converts input text to speech  
+- Allows voice selection from available system voices  
 - Simple and clean UI
 
-## 🚀 Getting Started
+## 🚀 GETTING STARTED
 
-### 📁 Project Structure
-Text-to-Voice_Convertor
-        ├── index.html 
-        ├── style.css
-        ├── script.js 
-        └── README.md
+### 📁 PROJECT STRUCTURE  
+Text-to-Voice_Convertor  
+    ├── index.html  
+    ├── style.css  
+    ├── script.js  
+    └── README.md
 
-
-### 📋 Prerequisites
-- Modern web browser (Chrome, Edge, Firefox)
+### 📋 PREREQUISITES  
+- Modern web browser (Chrome, Edge, Firefox)  
 - No additional installations needed
 
-### 💡 How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/SwathiPriya37/Text-to-Voice_Convertor.git
+### 💡 HOW TO RUN  
+1. Clone the repository:  
+   `git clone https://github.com/SwathiPriya37/Text-to-Voice_Convertor.git`
 
-###🙌 Acknowledgments
+2. Open `index.html` in your browser.
+
+## 🧠 HOW IT WORKS  
+- Uses the `SpeechSynthesisUtterance` API for text-to-speech  
+- Dynamically populates the voice list based on the system  
+- Reads out text entered in the textarea upon button click
+
+###🙌 ACKNOWLEDGMENTS
 MDN Web Docs – SpeechSynthesisUtterance
 
-###📄 License
-This project is open source and available under the MIT License.
-
----
-
-Let me know if you'd like me to generate a basic `index.html`, `style.css`, and `script.js` too!
+This version balances structure and readability—headers are emphasized, and body text stays easy to read. Want me to generate or review your project files too?
