@@ -34,7 +34,7 @@ Text-to-Voice_Convertor
 - Dynamically populates the voice list based on the system  
 - Reads out text entered in the textarea upon button click
 
-###🙌 ACKNOWLEDGMENTS
-MDN Web Docs – SpeechSynthesisUtterance
+## 🙌 ACKNOWLEDGMENTS  
+- MDN Web Docs – [SpeechSynthesisUtterance](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance)
 
 This version balances structure and readability—headers are emphasized, and body text stays easy to read. Want me to generate or review your project files too?
